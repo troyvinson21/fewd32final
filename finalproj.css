@@ -1,0 +1,222 @@
+* {
+	box-sizing: border-box;
+}
+.index2 {
+	background-color: rgb(240,245,245);
+}
+body {
+	background-color: rgb(240,245,245);
+	font-family: "Trebuchet MS", sans-serif;
+
+}
+
+
+
+.fullImage {
+	margin:auto;
+	display: block;
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.row img:hover {
+	-webkit-filter: brightness(50%)
+}
+.header img {
+	width: 240px;
+	height: 135px;
+}
+.header {
+	
+	height: 80px;
+	padding-left: 50px;
+
+}
+.navbar {
+	background-image: url("../img/backgroundImage.jpg");
+	background-size: 100%;
+	overflow: hidden;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+    z-index: 1;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(115,110,110);
+    font-family: "Trebuchet MS", sans-serif;
+
+
+
+}
+.index3 {
+	padding-top: 92px;
+}
+
+.index1 {
+	background-image: url('../img/grafitti.jpg');
+	height:800px;
+    background-size:cover;
+    background-position:center;
+    position:relative;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    padding-top: 92px;
+
+}
+
+.hero {
+	background-image: url('../img/IMG_5398.JPG');
+	height:600px;
+    background-size:cover;
+    background-position:center;
+    position:relative;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+
+}
+.hero-block {
+	background-color: white;
+	padding-bottom: 35px;
+	opacity: 0.7;
+}
+
+.row {
+	
+	padding-top: 92px;
+}
+
+.row2 {
+	padding-top: 92px;
+	
+}
+
+.row3 {
+	padding-top: 92px;
+}
+
+
+.navbar-brand {
+	max-width: 100%;
+	display: inline-block;
+	float: right;
+	margin-top: 30px;
+
+}
+
+.navbar-brand a {
+	text-decoration: none;
+	color: black;
+	padding-left: 40px;
+
+
+
+
+
+}
+
+button {
+	padding: 0;
+	border: none;
+	background: none;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+.bodyContent {
+	margin-top: 92px;
+}
+
+.header img {
+	width: 240px;
+
+}
+
+.fullImage {
+    width: 48%;
+    margin: 1%;
+    cursor: pointer;
+}
+
+.isoItemLarge {
+	width: 72%;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	font-size: 18px;
+	text-align: left;
+	padding-top: 15px;
+}
+
+
+
+h1 span {
+    background: #fff;
+    padding: 0 15px;
+}
+.form-email {
+	padding-top: 15px;
+}
+
+
+.navFoot {
+	padding-top: 20px;
+	padding-left: 10px;
+	color: black;
+}
+
+.form-control {
+	background-color:floralwhite;
+}
+.messageBlock {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+textarea {
+	resize: none;
+}
+h3 {
+  line-height: 0.5;
+  text-align: center;
+  color: white;
+  font-family: "Apple Chancery", cursive;
+}
+h3 span {
+  display: inline-block;
+  position: relative;  
+}
+h3 span:before,
+h3 span:after {
+  content: "";
+  position: absolute;
+  height: 5px;
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  top: 0;
+  width: 600px;
+}
+h3 span:before {
+  right: 100%;
+  margin-right: 15px;
+}
+h3 span:after {
+  left: 100%;
+  margin-left: 15px;
+}
+
+h4 {
+	text-align: center;
+	padding-top: 10px;
+}
+
+h4 a {
+	color: white;
+
+
+}
+
+n
